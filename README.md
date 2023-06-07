@@ -1,4 +1,4 @@
-LIVE DEMO: https://gaurskandtaskmanager.netlify.app/
+
 
 Task-Master a responsive application using React.js, JavaScript, and Bootstrap. Leveraging the power of React.js, I created a user-friendly interface that allowed users to manage their tasks efficiently. By utilizing JavaScript, I implemented dynamic functionalities such as task creation, editing, and deletion, providing a seamless user experience. The application's responsive design ensured optimal usability across different devices, adapting to various screen sizes. Furthermore, I integrated Bootstrap to enhance the application's visual appeal and responsiveness, enabling consistent styling and layout across different components.
 
